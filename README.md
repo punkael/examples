@@ -1,2 +1,2 @@
-# resize
+# Examples
 Code Example
